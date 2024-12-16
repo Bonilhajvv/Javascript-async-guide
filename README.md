@@ -1,5 +1,7 @@
 ## CodeConnect: Gerenciador de Projetos Interativos 
 
+![Captura de Tela 2024-12-16 às 09 59 01](https://github.com/user-attachments/assets/ef0e4f90-2f50-4bff-92ef-070e201d03c5)
+
 CodeConnect é uma aplicação web desenvolvida para facilitar o gerenciamento de projetos, proporcionando uma interface intuitiva e moderna. O objetivo principal do projeto é permitir que os usuários publiquem novos projetos, associem imagens, adicionem descrições e categorizações por meio de tags interativas.
 
 Este projeto foi criado como parte de um estudo prático de desenvolvimento front-end, incorporando conceitos avançados de JavaScript, manipulação do DOM, e boas práticas de design responsivo utilizando CSS moderno.
